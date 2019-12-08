@@ -1,0 +1,10 @@
+#ifndef _HEADER_H_
+#define _HEADER_H_
+#include <fstream>
+#include <iostream>
+#include <string>
+using namespace std;
+void ReadWriteTextFile(string filein,string fileout);
+
+#endif
+
